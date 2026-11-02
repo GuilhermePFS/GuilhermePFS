@@ -9,11 +9,11 @@ Cursando Análise e Desenvolvimento de Sistemas pela Unicid.
 
 <p align="left">
   
-<a href="https:www.linkedin.com/in/guilherme-p-628230362" target="_blank">
+<a href="https://www.linkedin.com/in/christian-badolato/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   
-<a href="mailto:guilhermeplsilva@gmail.com">
+<a href="mailto:christianbadolato16@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 

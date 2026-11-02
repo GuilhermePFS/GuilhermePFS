@@ -1,6 +1,6 @@
 # 👋 Oi! Eu sou o Guilherme Pereira
 
-desenvolvedor Front-End. <br>
+desenvolvedor Full Stack. <br>
 Cursando Análise e Desenvolvimento de Sistemas pela Unicid.
 
 ---
